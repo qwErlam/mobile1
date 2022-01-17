@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mobile1</string>
+    <string name="ssid">SSID:</string>
+    <string name="bssid">BSSID:</string>
+    <string name="capabilities">Capabilities:</string>
+    <string name="level">Level:</string>
+    <string name="frequency">Frequency:</string>
+</resources>
